@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Czesc!
+
+Tutaj Dominika, bardzo lubię jesc i dlugo spac.
